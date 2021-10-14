@@ -9,7 +9,7 @@ public class Main {
 
 
      //Definition for a binary tree node.
-     class TreeNode {
+     static class TreeNode {
         int val;
         TreeNode left;
          TreeNode right;
